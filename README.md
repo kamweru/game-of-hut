@@ -20,3 +20,6 @@ This path is pretty obvious and one can come up with a number of them by hand, b
 > Using the same two rule listed above, the program came up with **240 unique paths/ways**
 
 It is a fun game especially when played *without the help of a computer*, in contrast, with a computer, my mind was blown when I knew that there are so many other possibilities, different from the ones I could come up with on my own.
+
+#### my website
+> [kamweru.com](http://kamweru.com/)
